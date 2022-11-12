@@ -1,0 +1,58 @@
+* {
+    background-color: rgb(204, 254, 237);
+}
+#header{
+    justify-content: center;
+    display: flex;
+    font-family: cursive;
+    color: grey;
+    width: 700px;
+}
+#favorites {
+    background-color: aqua;
+    display: flex;
+    margin: 20px;
+    padding: 20px;
+    justify-content: space-between;
+    width: 700px;
+}
+#spooky1 {
+    background-color: greenyellow;
+    display: flex;
+    margin: 20px;
+    padding: 20px;
+    justify-content: space-evenly;
+    width: 700px;
+}
+#spooky2 {
+    background-color: rgb(229, 47, 162);
+    display: flex;
+    margin: 20px;
+    padding: 20px;
+    justify-content: space-between;
+    width: 700px;
+}
+#octoqueer{
+    height: 200px;
+}
+#spocktocat{
+    height: 200px;
+}
+#bewitchedtocat{
+    height: 200px;
+}
+#linktocat{
+    height: 200px;
+}
+#mummytocat{
+    height: 200px;
+}
+#pusheencat{
+    height: 200px;
+}
+#spectrocat{
+    height: 200px;
+}
+#total-eclipse-of-the-octocat{
+    height: 200px;
+}
